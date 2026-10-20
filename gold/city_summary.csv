@@ -1,0 +1,11 @@
+﻿city_key,city,country,listings,avg_price,median_price,avg_rating,superhost_pct,guest_favorite_pct,new_listings
+1,Amsterdam,Netherlands,50,306.73,304.3,4.86,68.0,56.0,2
+2,Athens,Greece,50,89.44,80.2,4.9,64.0,68.0,1
+3,Barcelona,Spain,50,184.83,165.3,4.8,68.0,42.0,1
+4,Berlin,Germany,50,185.01,179.8,4.91,84.0,72.0,5
+5,Budapest,Hungary,50,107.84,94.7,4.89,64.0,64.0,6
+6,Lisbon,Portugal,50,152.52,135.3,4.87,66.0,66.0,2
+7,London,United Kingdom,50,266.45,256.2,4.86,42.0,40.0,11
+8,Paris,France,50,294.23,249.05,4.89,56.0,54.0,9
+9,Rome,Italy,49,178.17,168.4,4.91,61.2,81.6,1
+10,Vienna,Austria,50,180.65,167.7,4.89,64.0,58.0,3
